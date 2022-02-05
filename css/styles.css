@@ -232,18 +232,6 @@ li {
 	margin-right: 30px;
 }
 
-.container-lorem {
-	width: 1200px;
-	height: 101px;
-	margin: 0 auto;
-	display: flex;
-}
-
-.container-whatwedo {
-	width: 1200px;
-	height: 386px;
-	margin: 0 auto;
-}
 
 .card-whatwedo,
 .card-ourteam {
@@ -274,7 +262,7 @@ li {
 
 .textparagraph {
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 12px;
 	line-height: 1.714;
 	letter-spacing: 0.03em;
 	color: #757575;
@@ -314,12 +302,7 @@ li {
 	/* display: flex; */
 }
 
-.container-ourteam {
-	width: 1200px;
-	margin: 0 auto;
-}
-
-.container-ourteambox {
+.container .lilastteam {
 	max-width: 270px;
 	height: 368px;
 	margin-bottom: 30px;
@@ -382,3 +365,16 @@ li {
 	padding-bottom: 20px;
 }
 /* ````````````` END FOOTER  ````````````` */
+/* ~~~~~~~~~~~~~PORTFOLIO ~~~~~~~~~~~~~~~~~*/
+.figure {
+    border: 1px solid #EEEEEE;
+	box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+}
+
+.figcaption {
+    background-color: white;
+    padding-top: 20px;
+}
