@@ -264,11 +264,12 @@ li {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: #212121;
+	padding-bottom: 10px;
 }
 
 .textparagraph {
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.714;
 	letter-spacing: 0.03em;
 	color: #757575;
@@ -371,7 +372,7 @@ figcaption {
 .figureli {
 	padding-right: 30px;
 	padding-bottom: 30px;
-}
+	}
 
 /* ````````````` END MAIN  ````````````` */
 /* ````````````` FOOTER  ````````````` */
