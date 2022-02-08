@@ -72,10 +72,8 @@ li {
 }
 
 .containerli {
-	width: 1200px;
-	flex-wrap: wrap;
-	margin: 0 auto;
 	padding-bottom: 60px;
+	flex-wrap: wrap;
 }
 
 .navigation-list-item {
